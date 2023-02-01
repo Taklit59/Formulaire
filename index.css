@@ -1,0 +1,16 @@
+*{
+    margin: auto;
+}
+
+form{
+    width: 400px;
+    padding: 40px;
+    margin-top: 5%;
+    box-shadow: 0px 0px 15px black;
+    border-radius: 25px;
+}
+
+span {
+    color: red;
+    font-size: large;
+}
